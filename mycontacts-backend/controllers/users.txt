@@ -1,0 +1,6 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoieWl5dWFuIHh1IiwiZW1haWwiOiJ5aXl1YW54dUBnbWFpbC5jb20iLCJpZCI6IjY4OTU1MjQyYmFjOGJhMzEyODgxNjQwYiJ9LCJpYXQiOjE3NTQ2MTY0NDEsImV4cCI6MTc1NDYxNzM0MX0._ASWDYAEBC-QJipF7KDOdh1Tqu2WVNKYyQyz81-RSFA
+{
+  "username": "yiyuan xu",
+  "email": "yiyuanxu@gmail.com",
+  "id": "68955242bac8ba312881640b"
+}
