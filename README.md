@@ -1,4 +1,4 @@
-
+-----
 
 # **Contact Management Backend API**
 
@@ -6,7 +6,7 @@ This project is a RESTful API built from the ground up using **Node.js**, **Expr
 
 -----
 
-### **Project Overview**
+## **Project Overview**
 
 The core of this project is a fully functional API that demonstrates key backend development concepts. It features a complete user authentication flow and a private contact management system. The architecture is clean and modular, following a Model-View-Controller (MVC)-like pattern to ensure maintainability and scalability.
 
@@ -14,7 +14,7 @@ This project was developed by following the "[Learn Node.js & Express with Proje
 
 -----
 
-### **Key Features**
+## **Key Features**
 
   * **User Authentication**: Secure user registration and login endpoints.
   * **JWT (JSON Web Token)**: Uses JWT for stateless authentication, providing a secure way to verify user identity.
@@ -28,7 +28,7 @@ This project was developed by following the "[Learn Node.js & Express with Proje
 
 -----
 
-### **Project Structure**
+## **Project Structure**
 
 The file organization is logical and easy to navigate:
 
@@ -57,7 +57,7 @@ The file organization is logical and easy to navigate:
 
 -----
 
-### **How to Run the Project**
+## **How to Run the Project**
 
 1.  **Clone the repository**: `git clone <repository-url>`
 2.  **Install dependencies**: Navigate to the project directory and run `npm install`.
@@ -71,11 +71,11 @@ CONNECTION_STRING="your_mongodb_connection_string"
 ACCESS_TOKEN_SECRET="a_strong_random_secret_for_jwt_signing"
 ```
 
-4.  **Start the server**: Run `npm run dev` (if using Nodemon) or `node server.js`.
+4.  **Start the server**: Run `node server.js`.
 
 -----
 
-### **API Endpoints**
+## **API Endpoints**
 
 This project provides a full suite of RESTful API endpoints. All private routes require a valid JWT in the `Authorization: Bearer <token>` header.
 
@@ -89,10 +89,9 @@ This project provides a full suite of RESTful API endpoints. All private routes 
 | `GET` | `/api/contacts/:id` | Fetches a specific contact by ID | Private (JWT required) |
 | `PUT` | `/api/contacts/:id` | Updates a specific contact by ID | Private (JWT required) |
 | `DELETE` | `/api/contacts/:id`| Deletes a specific contact by ID | Private (JWT required) |
-
 -----
 
-### **Video Walkthrough**
+## **Video Walkthrough**
 
 This video provides a guided tour of the project, demonstrating how to use each API endpoint with Thunder Client and showcasing the core features, from user authentication to CRUD operations.
 
