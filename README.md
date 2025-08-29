@@ -1,6 +1,6 @@
 
 
-### **Contact Management Backend API**
+# **Contact Management Backend API**
 
 This project is a RESTful API built from the ground up using **Node.js**, **Express**, and **MongoDB**. It provides a secure and robust backend for a contact management application, allowing users to register, log in, and manage their own contacts.
 
